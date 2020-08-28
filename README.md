@@ -1,3 +1,3 @@
-Sylvester Stallone
-Angelina Jolie
-Jackie Chan
+Sylvester Stallone  
+Angelina Jolie  
+Jackie Chan  
