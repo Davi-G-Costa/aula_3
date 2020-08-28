@@ -1,1 +1,3 @@
-# aula_3
+Sylvester Stallone
+Angelina Jolie
+Jackie Chan
